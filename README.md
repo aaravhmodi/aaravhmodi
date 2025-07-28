@@ -33,7 +33,7 @@ AI & ML        : TensorFlow, PyTorch, OpenCV, Sentence-Transformers
 
 ## ✨ Fun Facts
 
-- 🎸 I co-founded a band called **Daydream** — we performed at TIFF 2023 🎶
+- 🎸 I co-founded a band called **Daydream** — we performed at TIFF 2023 🎶  [Spotify](https://open.spotify.com/artist/4ZlorZ6hE7ImbKwkpkvsaY?si=OQM1ZKLFQmm4AEMCAM-l_w) and [TIFF article](https://tiff.net/events/daydream)
 - 📚 I’m fascinated by **biomedical systems**, **cloud tech**, and **accessibility design**
 - 🌐 Always learning — currently exploring Azure & system automation
 
