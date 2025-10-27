@@ -29,8 +29,8 @@ AI & ML        : TensorFlow, PyTorch, OpenCV, Sentence-Transformers
   Automated Playwright-based web crawler for testing site behavior and data extraction | Node.js, Playwright  
   [🔗 Repo](https://github.com/aaravhmodi/practiceplaywrightcrawler)
 
-- ✈️ **Flight Reacts (Computer Vision Project)**  
-  AI-powered system that detects flight trajectories and gestures using OpenCV and TensorFlow | Python, OpenCV, Flask  
+- ✈️ **Flight Reacts (Computer Vision Meme Project)**  
+  Fun computer vision experiment that detects when users make **FlightReacts-style facial expressions** using **OpenCV** and **TensorFlow**, triggering meme-based reactions and overlays in real time.  
   [🔗 Repo](https://github.com/aaravhmodi/flightreactscompvision)
 
 - 🎓 **Math Video Search Engine**  
