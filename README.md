@@ -4,7 +4,7 @@
 
 ---
 
-## 🔧 Technologies I Use
+## 🔧 Technologies  I Use
 
 ```plaintext
 Languages      : Python, JavaScript, TypeScript, HTML/CSS, SQL
