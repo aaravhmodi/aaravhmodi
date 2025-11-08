@@ -7,7 +7,7 @@
 ## 🔧 Technologies  I Use
 
 ```plaintext
-Languages      : Python, JavaScript, TypeScript, HTML/CSS, SQL
+Languages      : Python, Java, JavaScript, TypeScript, HTML/CSS, SQL
 Frameworks     : React, Flask, Node.js, Next.js, Tailwind CSS
 Tools & DBs    : Git, Docker, Firebase, Prisma, Elasticsearch
 AI & ML        : TensorFlow, PyTorch, OpenCV, Sentence-Transformers
