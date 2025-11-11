@@ -2,7 +2,7 @@
 
 🚀 I’m a Systems Design Engineering student at the University of Waterloo, passionate about building **AI-driven tools**, **full-stack web apps**, and **user-focused software**.
 
----
+--- 
 
 ## 🔧 Technologies  I Use
 
