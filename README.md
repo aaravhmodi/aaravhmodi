@@ -4,7 +4,7 @@
 
 ---
 
-## 🔧 Technologies I Use
+## 🔧 Technologies  I Use
 
 Languages      : Python, Java, JavaScript, TypeScript, HTML/CSS, SQL  
 Frameworks     : React, Flask, Node.js, Next.js, Tailwind CSS  
