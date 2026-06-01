@@ -9,4 +9,7 @@
 GitHub   : https://github.com/aaravhmodi  
 LinkedIn : https://www.linkedin.com/in/aaravhmodi  
 Email    : aarav.modi@uwaterloo.ca
-Website  : aaravmodi.ca
+
+Website  : https://aaravmodi.ca
+
+
